@@ -9,7 +9,7 @@ public class Task2 {
     }
 
     public static void drawRectangle (int width) {
-        drawRectangle(width,width);
+        drawRectangle(width, width);
     }
 
     public static void main(String[] args) {
